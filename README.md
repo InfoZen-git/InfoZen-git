@@ -4,14 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7AA2C8&center=true&vCenter=true&width=720&lines=Informatique+%C2%B7+R%C3%A9seaux+%C2%B7+Cybers%C3%A9curit%C3%A9;Hardware+%C2%B7+D%C3%A9veloppement+%C2%B7+Homelab;Open+Source+%C2%B7+Automatisation+%C2%B7+IA+locale;Construire.+Comprendre.+Am%C3%A9liorer." alt="InfoZen">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7AA2C8&center=true&vCenter=true&width=720&lines=Informatique+%C2%B7+R%C3%A9seaux+%C2%B7+%C3%89lectronique;Cybers%C3%A9curit%C3%A9+%C2%B7+Hardware+%C2%B7+D%C3%A9veloppement;Homelab+%C2%B7+Open+Source+%C2%B7+Automatisation;IA+locale+%C2%B7+Construire.+Comprendre.+Am%C3%A9liorer." alt="InfoZen">
 
 </div>
 
 ## À propos
 
 **InfoZen** est un univers dédié à la technologie : développement, réseaux,
-hardware, infrastructure, automatisation et expérimentation.
+électronique, hardware, infrastructure, automatisation et expérimentation.
 
 L'objectif : rendre la technologie **simple, utile et maîtrisable**, en construisant
 des outils concrets, en documentant les expériences et en faisant évoluer des
@@ -20,8 +20,10 @@ infrastructures réelles.
 | Domaine | Ce qu'InfoZen développe |
 | :--- | :--- |
 | **Développement** | Applications, outils open source, API et solutions sur mesure |
-| **Infrastructure** | Réseaux, serveurs, Docker, self-hosting et supervision |
-| **Hardware** | Montage PC, diagnostic, optimisation et électronique |
+| **Réseaux** | Infrastructure, services réseau, accès distant et supervision |
+| **Électronique** | Prototypage, IoT, Arduino et intégration matériel/logiciel |
+| **Infrastructure** | Serveurs, Docker, self-hosting et services auto-hébergés |
+| **Hardware** | Montage PC, diagnostic, optimisation et dépannage |
 | **Automatisation** | Scripts, bots, services et workflows |
 | **IA locale** | Expérimentation et intégration de modèles auto-hébergés |
 | **Création tech** | Astuces, tutoriels et contenu autour de l'informatique |
