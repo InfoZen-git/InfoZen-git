@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7AA2C8&center=true&vCenter=true&width=720&lines=Informatique+%C2%B7+R%C3%A9seaux+%C2%B7+%C3%89lectronique;Cybers%C3%A9curit%C3%A9+%C2%B7+Hardware+%C2%B7+D%C3%A9veloppement;Homelab+%C2%B7+Open+Source+%C2%B7+Automatisation;IA+locale+%C2%B7+Construire.+Comprendre.+Am%C3%A9liorer." alt="InfoZen">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7AA2C8&center=true&vCenter=true&width=720&lines=Cybers%C3%A9curit%C3%A9+%C2%B7+Informatique+%C2%B7R%C3%A9seaux+%C2%B7+%C3%89lectronique;Hardware+%C2%B7+D%C3%A9veloppement+%C2%B7+Homelab;Open+Source+%C2%B7+Automatisation+%C2%B7+IA+locale;Construire.+Comprendre.+Am%C3%A9liorer." alt="InfoZen">
 
 </div>
 
