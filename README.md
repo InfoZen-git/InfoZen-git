@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="InfoZen" width="100%">
+<img src="assets/header.png" alt="InfoZen" width="100%">
 
 <br>
 
@@ -78,32 +78,6 @@ flowchart LR
 
 ---
 
-### InfoZen-Link
-
-**NFC & solutions numériques pour les professionnels.**
-
-Le projet relie un support physique à une expérience numérique grâce au NFC
-et aux QR codes, avec l'objectif de proposer des solutions simples et utiles.
-
-```text
-Support physique
-       ↓
-   NFC / QR Code
-       ↓
-Expérience numérique
-       ↓
-      Action
-```
-
----
-
-### LeBonBot
-
-Projet d'automatisation autour de la recherche, du traitement et de la
-publication d'annonces, avec une logique orientée vers la réduction des tâches répétitives.
-
----
-
 ## Ce que j'utilise
 
 <div align="center">
@@ -123,35 +97,6 @@ publication d'annonces, avec une logique orientée vers la réduction des tâche
 <sub>Ollama · Tailscale · Pi-hole · Uptime Kuma</sub>
 
 </div>
-
----
-
-## Architecture & infrastructure
-
-```text
-                         ┌─────────────────┐
-                         │     INTERNET    │
-                         └────────┬────────┘
-                                  │
-                         ┌────────▼────────┐
-                         │    LIVEBOX 7    │
-                         └────────┬────────┘
-                                  │
-                    ┌─────────────┴─────────────┐
-                    │                           │
-             ┌──────▼──────┐             ┌──────▼──────┐
-             │   ZIMAOS    │             │ RASPBERRY PI│
-             │    Docker   │             │    Docker   │
-             └──────┬──────┘             └──────┬──────┘
-                    │                           │
-          ┌─────────┼─────────┐       ┌─────────┼─────────┐
-          │         │         │       │         │         │
-        IA       Home       API     DNS       Bot    Supervision
-       locale  Assistant  métriques Pi-hole  Discord  Uptime Kuma
-
-                         ╲       Tailscale       ╱
-                          ╲──── accès distant ──╱
-```
 
 ---
 
