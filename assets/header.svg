@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-labelledby="t">
+  <title id="t">InfoZen, par Octave. Créateur tech, développeur et entrepreneur.</title>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#20232b" stroke-width="1" />
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0b0c0e" stop-opacity="0" />
+      <stop offset="70%" stop-color="#0b0c0e" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0b0c0e" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="258" rx="18" fill="#0b0c0e" stroke="#24262d" stroke-width="1.5" />
+  <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#grid)" opacity="0.55" />
+  <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#fade)" />
+
+  <g transform="translate(64, 96)">
+    <text x="0" y="0" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+          font-size="68" font-weight="700" fill="#ffffff" letter-spacing="-1.5">InfoZen</text>
+
+    <text x="4" y="38" font-family="ui-monospace, 'SF Mono', Consolas, monospace"
+          font-size="14" fill="#7d8794" letter-spacing="6">BY OCTAVE</text>
+
+    <rect x="4" y="60" width="54" height="2" rx="1" fill="#7aa2c8" />
+
+    <text x="4" y="96" font-family="ui-monospace, 'SF Mono', Consolas, monospace"
+          font-size="14" fill="#94a3b8" letter-spacing="1.5">créateur tech · développeur · homelabber · entrepreneur</text>
+  </g>
+
+  <g transform="translate(866, 130)">
+    <g stroke="#7aa2c8" stroke-width="1.5" opacity="0.45" fill="none">
+      <path d="M0 0 L-56 0" />
+      <path d="M0 0 L34 -38" />
+      <path d="M0 0 L56 0" />
+      <path d="M0 0 L34 38" />
+    </g>
+    <g fill="#0b0c0e" stroke="#7aa2c8" stroke-width="1.5">
+      <circle cx="-56" cy="0" r="5" />
+      <circle cx="34" cy="-38" r="5" />
+      <circle cx="56" cy="0" r="5" />
+      <circle cx="34" cy="38" r="5" />
+    </g>
+    <circle cx="0" cy="0" r="9" fill="#0b0c0e" stroke="#7aa2c8" stroke-width="2" />
+    <circle cx="0" cy="0" r="3" fill="#7aa2c8" />
+  </g>
+</svg>
