@@ -177,7 +177,7 @@ expérimentations en projets utiles.
 [![YouTube](https://img.shields.io/badge/YouTube-0b0c0e?style=flat-square&logo=youtube&logoColor=7aa2c8)](https://www.youtube.com/@LesAstucesdInfoZen)
 [![TikTok](https://img.shields.io/badge/TikTok-0b0c0e?style=flat-square&logo=tiktok&logoColor=7aa2c8)](https://www.tiktok.com/@infozen_off)
 [![Instagram](https://img.shields.io/badge/Instagram-0b0c0e?style=flat-square&logo=instagram&logoColor=7aa2c8)](https://www.instagram.com/infozen_off)
-[![Discord](https://img.shields.io/badge/Discord-0b0c0e?style=flat-square&logo=discord&logoColor=7aa2c8)](https://discord.gg/infozen)
+[![Discord](https://img.shields.io/badge/Discord-0b0c0e?style=flat-square&logo=discord&logoColor=7aa2c8)](https://discord.gg/nPWU9cW3NG)
 
 <br>
 
